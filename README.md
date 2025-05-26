@@ -1,4 +1,4 @@
-[![typograssy](https://typograssy.deno.dev/api?text=halo%20welt](https://typograssy.deno.dev/api?text=hallo%20welt&l0=050505&l1=daea9f&l2=a7b573&l3=94a130&l4=5d6e21&bg=0f0f0f&comment=)
+[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!](https://typograssy.deno.dev/api?text=hallo%20welt&l0=050505&l1=daea9f&l2=a7b573&l3=94a130&l4=5d6e21&bg=0f0f0f&comment=)]
 <!--
 **farahdesu/farahdesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
